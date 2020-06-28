@@ -1,0 +1,4 @@
+/opt/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/iskander/Data/Faculty of computer and information/Problem Solving/Problem Solving with C++ WALTER SAVITCH , 7th Edithon/Chapter 4  Procedural Abstraction and Functions That Return a Value/Display/display-4.1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/iskander/Data/Faculty of computer and information/Problem Solving/Problem Solving with C++ WALTER SAVITCH , 7th Edithon/Chapter 4  Procedural Abstraction and Functions That Return a Value/Display/display-4.1/cmake-build-debug
