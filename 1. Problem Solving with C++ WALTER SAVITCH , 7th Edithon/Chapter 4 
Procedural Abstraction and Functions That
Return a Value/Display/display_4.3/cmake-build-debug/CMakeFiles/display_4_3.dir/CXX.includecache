@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iskander/Data/Faculty of computer and information/Problem Solving/Problem Solving with C++ WALTER SAVITCH , 7th Edithon/Chapter 4  Procedural Abstraction and Functions That Return a Value/Display/display_4.3/main.cpp
+iostream
+-
+
