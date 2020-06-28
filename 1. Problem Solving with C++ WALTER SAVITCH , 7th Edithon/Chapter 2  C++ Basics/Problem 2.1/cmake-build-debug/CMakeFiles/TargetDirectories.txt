@@ -1,0 +1,3 @@
+/home/iskander/Data/Faculty of computer and information/Problem Solving/Problem Solving with C++ WALTER SAVITCH , 7th Edithon/Chapter 2  C++ Basics/Problem 2.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/iskander/Data/Faculty of computer and information/Problem Solving/Problem Solving with C++ WALTER SAVITCH , 7th Edithon/Chapter 2  C++ Basics/Problem 2.1/cmake-build-debug/CMakeFiles/Problem_2_1.dir
+/home/iskander/Data/Faculty of computer and information/Problem Solving/Problem Solving with C++ WALTER SAVITCH , 7th Edithon/Chapter 2  C++ Basics/Problem 2.1/cmake-build-debug/CMakeFiles/edit_cache.dir
