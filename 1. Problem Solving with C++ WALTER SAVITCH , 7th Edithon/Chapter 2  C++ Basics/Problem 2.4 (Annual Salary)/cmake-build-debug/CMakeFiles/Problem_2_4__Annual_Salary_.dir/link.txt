@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Problem_2_4__Annual_Salary_.dir/main.cpp.o  -o Problem_2_4__Annual_Salary_ 
