@@ -42,6 +42,7 @@ int main() {
      */
     //printf("String is: %s\n", s2);
 
+    /*
     int x = 42;
     int y = 7;
 
@@ -53,6 +54,33 @@ int main() {
 
     // Same on JavaScript
     printf("The greatest is: %d\n", x > y ? x : y);
+    */
+
+    const int iOne = 1;
+    const int iTwo = 2;
+    const int iThree = 3;
+    const int iFour = 4;
+
+    int x = 1;
+
+    switch (x) {
+        case iOne:
+            puts("One");
+            break;
+        case iTwo:
+            puts("Two");
+            break;
+        case iThree:
+            puts("Three");
+            break;
+        case iFour:
+            puts("Four");
+            break;
+
+        default:
+            puts("Default");
+            break;
+    }
 
     return 0;
 }
