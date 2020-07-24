@@ -51,5 +51,8 @@ int main() {
         puts("Condition is false");
     }
 
+    // Same on JavaScript
+    printf("The greatest is: %d\n", x > y ? x : y);
+
     return 0;
 }
