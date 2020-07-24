@@ -97,8 +97,12 @@ int main() {
         ++i;
     } while (i < 5);*/
 
-    int a[] = { 1, 2, 3, 4, 5 };
+    /*int a[] = { 1, 2, 3, 4, 5 };
     for(int i = 0; i < 5; ++i) {
+        printf("Element %d is %d\n ", i, a[i]);
+    }*/
+    int a[] = { 1, 2, 3, 4, 5 };
+    for (int i : a) {
         printf("Element %d is %d\n ", i, a[i]);
     }
     return 0;
