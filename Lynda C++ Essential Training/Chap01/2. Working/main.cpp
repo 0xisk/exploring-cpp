@@ -2,10 +2,12 @@
 using namespace std;
 
 int main() {
-    int x;
-    x = 42;
+    //int x;
+    //x = 42;
+
+    const int i = 7;
 
     // %d is a token for printf where it puts the integer value
-    printf("X is %d\n", x);
+    printf("I is %d\n", i);
     return 0;
 }
