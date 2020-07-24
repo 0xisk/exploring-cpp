@@ -84,7 +84,7 @@ int main() {
     }
     */
 
-    int a[] = { 1, 2, 3, 4, 5 };
+    /*int a[] = { 1, 2, 3, 4, 5 };
     int i = 0;
 
     while(i < 5) {
@@ -95,7 +95,11 @@ int main() {
     do {
         printf("Element %d is %d\n ", i, a[i]);
         ++i;
-    } while (i < 5);
+    } while (i < 5);*/
 
+    int a[] = { 1, 2, 3, 4, 5 };
+    for(int i = 0; i < 5; ++i) {
+        printf("Element %d is %d\n ", i, a[i]);
+    }
     return 0;
 }
