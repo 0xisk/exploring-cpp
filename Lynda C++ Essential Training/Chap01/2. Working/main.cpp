@@ -21,6 +21,7 @@ int main() {
     // %d is a token for printf where it puts the integer value
     //printf("I is %d\n", i);
 
+    /*
     char s[] = { 's', 't', 'r', 'i', 'n', 'g' };
     char a[] = "Array 2";
 
@@ -38,8 +39,17 @@ int main() {
         if(c == 0) break;
         printf("String is: %c\n", c);
     }
-
+     */
     //printf("String is: %s\n", s2);
+
+    int x = 42;
+    int y = 7;
+
+    if (x > y) {
+        puts("Condition is true");
+    } else {
+        puts("Condition is false");
+    }
 
     return 0;
 }
