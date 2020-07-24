@@ -1,0 +1,3 @@
+/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap01/2. Working/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap01/2. Working/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap01/2. Working/cmake-build-debug/CMakeFiles/2__Working.dir
