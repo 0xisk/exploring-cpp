@@ -8,8 +8,12 @@ int main() {
     //const int i = 7;
 
     int x = 7;
-    int y = 42;
     int *ip = &x;
+
+    // Reference
+    // References are immutable cannot change it
+    int &y = x;
+
     printf("x is %d\n", x);
     printf("y is %d\n", y);
     printf("ip is %d\n", *ip);
