@@ -56,6 +56,7 @@ int main() {
     printf("The greatest is: %d\n", x > y ? x : y);
     */
 
+    /*
     const int iOne = 1;
     const int iTwo = 2;
     const int iThree = 3;
@@ -81,6 +82,20 @@ int main() {
             puts("Default");
             break;
     }
+    */
+
+    int a[] = { 1, 2, 3, 4, 5 };
+    int i = 0;
+
+    while(i < 5) {
+        printf("Element %d is %d\n ", i, a[i]);
+        ++i;
+    }
+
+    do {
+        printf("Element %d is %d\n ", i, a[i]);
+        ++i;
+    } while (i < 5);
 
     return 0;
 }
