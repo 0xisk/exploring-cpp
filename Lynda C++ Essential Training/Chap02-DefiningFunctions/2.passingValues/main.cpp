@@ -1,14 +1,15 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
-void func(const int &i) {
-    printf("Value is %d\n", i);
+void func(const string &fs) {
+    printf("Value is %s\n", fs.c_str());
 }
 
 int main() {
-    int x = 42;
+    string s = "Hello Im a string";
     puts("This is main()");
-    func(x); // Pass by value
-    printf("X is %d\n", x);
+    func(s); // Pass by value
+    printf("String is %s\n", s.c_str());
     return 0;
 }
