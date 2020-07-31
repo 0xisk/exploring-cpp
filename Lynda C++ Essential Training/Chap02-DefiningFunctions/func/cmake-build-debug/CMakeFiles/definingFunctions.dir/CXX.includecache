@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
+/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/func.h
+
 /home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/main.cpp
 iostream
 -
+func.h
+/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/func.h
 
