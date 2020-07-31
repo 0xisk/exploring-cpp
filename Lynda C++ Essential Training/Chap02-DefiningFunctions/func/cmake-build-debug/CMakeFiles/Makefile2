@@ -44,10 +44,10 @@ RM = /home/iskander/clion-2020.1.2/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02/definingFunctions"
+CMAKE_SOURCE_DIR = "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02/definingFunctions/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/definingFunctions.dir/clean
 CMakeFiles/definingFunctions.dir/all:
 	$(MAKE) -f CMakeFiles/definingFunctions.dir/build.make CMakeFiles/definingFunctions.dir/depend
 	$(MAKE) -f CMakeFiles/definingFunctions.dir/build.make CMakeFiles/definingFunctions.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02/definingFunctions/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target definingFunctions"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target definingFunctions"
 .PHONY : CMakeFiles/definingFunctions.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/definingFunctions.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02/definingFunctions/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/definingFunctions.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02/definingFunctions/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/definingFunctions.dir/rule
 
 # Convenience name for target.

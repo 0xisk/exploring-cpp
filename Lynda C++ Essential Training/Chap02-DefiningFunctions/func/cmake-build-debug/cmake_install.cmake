@@ -1,4 +1,4 @@
-# Install script for directory: /home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02/definingFunctions
+# Install script for directory: /home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02/definingFunctions/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02/definingFunctions/main.cpp" "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02/definingFunctions/cmake-build-debug/CMakeFiles/definingFunctions.dir/main.cpp.o"
+  "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/main.cpp" "/home/iskander/Learning/learning-cpp/Lynda C++ Essential Training/Chap02-DefiningFunctions/func/cmake-build-debug/CMakeFiles/definingFunctions.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
