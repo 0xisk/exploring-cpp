@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void func(int &i) {
-    i = 73;
+void func(const int &i) {
     printf("Value is %d\n", i);
 }
 
