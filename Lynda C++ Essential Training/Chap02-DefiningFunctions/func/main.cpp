@@ -7,6 +7,6 @@ void func() {
 
 int main() {
     puts("This is main()");
-    puts("This is func()");
+    func();
     return 0;
 }
