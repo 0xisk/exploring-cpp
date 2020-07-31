@@ -1,6 +1,12 @@
 #include <iostream>
+using namespace std;
+
+void func() {
+    puts("This is func()");
+}
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    puts("This is main()");
+    func();
     return 0;
 }
