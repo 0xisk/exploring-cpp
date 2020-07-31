@@ -1,12 +1,12 @@
 #include <iostream>
 using namespace std;
 
-void func() {
-    puts("This is func()");
+void func(int i) {
+    printf("Value is %d\n", i);
 }
 
 int main() {
     puts("This is main()");
-    func();
+    func(33); // Pass by value
     return 0;
 }
