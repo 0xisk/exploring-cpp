@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iskander/exploring/exploring-cpp/Problem Solving with C++ WALTER SAVITCH , 7th Edithon/Chapter 2/Problem_2.6/main.cpp
+iostream
+-
+
