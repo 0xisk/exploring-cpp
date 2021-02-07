@@ -1,4 +1,4 @@
-# Learning  C++ 🚀
+# Exploring C++ 🚀
 
  <p align='center'>
   <a href='https://dfini.com/'>
